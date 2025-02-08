@@ -8,7 +8,7 @@ avatar: https://yan-zijun.github.io/images/zijun.jpg
 favicon: https://yan-zijun.github.io/images/zijun.ico
 
 # 网站域名
-url: blog.zijun.us.kg
+url: #
 
 # 菜单中的按钮
 navigation:
@@ -22,7 +22,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 4
+paginate: 8
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
 
@@ -34,7 +34,7 @@ footer-links:
   email: 3239577894@qq.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: #Yan-ziJun
+  github: Yan-ziJun
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
