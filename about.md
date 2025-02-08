@@ -16,7 +16,6 @@ permalink: /about/
 
 <img src="/images/China/%E5%9B%BD%E6%97%97.png"/>
 
-大家好
 
 ## 版权声明
 
