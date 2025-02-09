@@ -348,7 +348,7 @@ This is really***very***important text.
 1.  Open the file containing the Linux mascot.
 2.  Marvel at its beauty.
 
-     <img src="/images/China/中华人民共和国国旗.png"/>)
+     <img src="/images/China/中华人民共和国国旗.png"/>
 
 3.  Close the file.
 
