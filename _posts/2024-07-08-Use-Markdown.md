@@ -1,3 +1,4 @@
+--- 
 layout: post
 title: 使用Markdown语法编写博客内容
 date: 2024-07-08
@@ -11,7 +12,7 @@ comments: true
 
 ## Markdown 文章开头（适用于本人发布个人博客）
 
-	---
+    ---
     layout: post
     title: 使用Markdown语法编写博客内容
     date: 2024-07-08
@@ -340,14 +341,14 @@ This is really***very***important text.
     1.  Open the file containing the Linux mascot.
     2.  Marvel at its beauty.
 
-        ![China-Number-1, the Linux mascot](images/China-Number-1.png)
-
+        <img src="/images/China/中华人民共和国国旗.png"/>
+	
     3.  Close the file.
 
 1.  Open the file containing the Linux mascot.
 2.  Marvel at its beauty.
 
-     ![China-Number-1, the Linux mascot](images/China/中华人民共和国国旗.png)
+     <img src="/images/China/中华人民共和国国旗.png"/>)
 
 3.  Close the file.
 
