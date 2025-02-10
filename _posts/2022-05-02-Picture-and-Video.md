@@ -8,9 +8,9 @@ tags: [照片与视频,Markdown]
 comments: true
 ---
 
-
-
 **本文用于展示各种风景风光等系列照片和视频**
+
+**文中图片如有侵权请联系下架**
 
 **北京---什刹海**
 
@@ -30,13 +30,4 @@ comments: true
 
 <img src="images/PVideo/什刹海7.jpeg"/>
 
-**雅拉雪山**
 
-<iframe 
-	width="1080" 
-	height="1920" 
-	frameborder="0" 
-	src="https://open.douyin.com/player/video?vid=7459984082680810812&autoplay=0" 
-	referrerpolicy="unsafe-url" 
-	allowfullscreen>
-</iframe>
