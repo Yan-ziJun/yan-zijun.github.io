@@ -14,4 +14,4 @@ comments: true
 
 ## 照片部分
 
-<img src="/images/China-Number-1.png"/>
+<img src="/images/zijun.jpg"/>
