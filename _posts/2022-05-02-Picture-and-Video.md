@@ -14,20 +14,5 @@ comments: true
 
 ## 照片部分
 
-**北京---什刹海**
 
-![什刹海](https://github.com/Yan-ziJun/yan-zijun.github.io/blob/main/images/PVideo/shenshahai.jpeg)
-
-![什刹海](https://github.com/Yan-ziJun/yan-zijun.github.io/blob/main/images/PVideo/shenshahai1.jpeg)
-
-![什刹海](https://github.com/Yan-ziJun/yan-zijun.github.io/blob/main/images/PVideo/shenshahai2.jpeg)
-
-![什刹海](https://github.com/Yan-ziJun/yan-zijun.github.io/blob/main/images/PVideo/shenshahai3.jpeg)
-
-![什刹海](https://github.com/Yan-ziJun/yan-zijun.github.io/blob/main/images/PVideo/shenshahai4.jpeg)
-
-![什刹海](https://github.com/Yan-ziJun/yan-zijun.github.io/blob/main/images/PVideo/shenshahai5.jpeg)
-
-![什刹海](https://github.com/Yan-ziJun/yan-zijun.github.io/blob/main/images/PVideo/shenshahai6.jpeg)
-
-![什刹海](https://github.com/Yan-ziJun/yan-zijun.github.io/blob/main/images/PVideo/shenshahai7.jpeg)
+![中国国旗](images/China-Number-1.png)
