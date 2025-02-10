@@ -14,4 +14,4 @@ comments: true
 
 ## 照片部分
 
-<img src="/images/73.webp"/>
+<img src="/images/1.jpeg"/>
