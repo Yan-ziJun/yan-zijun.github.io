@@ -14,7 +14,7 @@ comments: true
 
 ## 照片部分
 
-## 什刹海--北京
+### 什刹海--北京
 
 <img src="/images/PV/1.jpeg"/>
 
@@ -31,3 +31,57 @@ comments: true
 <img src="/images/PV/7.jpeg"/>
 
 <img src="/images/PV/8.jpeg"/>
+
+### 唐山宴、河头老街--唐山
+
+<img src="/images/PV/ts1.jpeg"/>
+
+<img src="/images/PV/ts2.jpeg"/>
+
+<img src="/images/PV/ts3.jpeg"/>
+
+<img src="/images/PV/ts4.jpeg"/>
+
+<img src="/images/PV/ts5.jpeg"/>
+
+### 张家口堡--张家口（2023.04）
+
+<img src="/images/PV/zjk1.jpeg"/>
+
+<img src="/images/PV/zjk2.jpeg"/>
+
+<img src="/images/PV/zjk3.jpeg"/>
+
+<img src="/images/PV/zjk4.jpeg"/>
+
+### 观音寺、宝尔汗佛塔--呼和浩特（2023.04）
+
+<img src="/images/PV/gys.jpeg"/>
+
+<img src="/images/PV/behft.jpeg"/>
+
+### 泥河湾--张家口（2023.08）
+
+<img src="/images/PV/nhw1.jpeg"/>
+
+<img src="/images/PV/nhw2.jpeg"/>
+
+<img src="/images/PV/nhw3.jpeg"/>
+
+### 右卫城--张家口（2024.02）
+
+<img src="/images/PV/ywc1.jpeg"/>
+
+<img src="/images/PV/ywc2.jpeg"/>
+
+<img src="/images/PV/ywc3.jpeg"/>
+
+<img src="/images/PV/ywc4.jpeg"/>
+
+<img src="/images/PV/ywc5.jpeg"/>
+
+<img src="/images/PV/ywc6.jpeg"/>
+
+<img src="/images/PV/ywc7.jpeg"/>
+
+<img src="/images/PV/ywc8.jpeg"/>
