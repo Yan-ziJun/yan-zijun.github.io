@@ -14,5 +14,4 @@ comments: true
 
 ## 照片部分
 
-
-![中国国旗](images/China-Number-1.png)
+<img src="/images/China-Number-1.png"/>
