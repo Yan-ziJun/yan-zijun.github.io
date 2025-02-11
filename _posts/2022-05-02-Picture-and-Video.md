@@ -90,7 +90,7 @@ comments: true
 
 <img src="/images/Pictures/zjk1.JPG"/>
 
-<img src="/images/Pictures/zjk2.JPG"/>
+<img src="/images/Pictures/zjk2 .JPG"/>
 
 <img src="/images/Pictures/zjk3.JPG"/>
 
