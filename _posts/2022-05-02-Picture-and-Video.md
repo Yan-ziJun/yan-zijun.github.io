@@ -14,6 +14,48 @@ comments: true
 
 ## 照片部分
 
+### 唐山宴、河头老街--唐山
+
+<img src="/images/Pictures/23.PNG"/>
+
+<img src="/images/Pictures/21.PNG"/>
+
+<img src="/images/Pictures/13.PNG"/>
+
+<img src="/images/Pictures/28.PNG"/>
+
+<img src="/images/Pictures/15.PNG"/>
+
+<img src="/images/Pictures/16.PNG"/>
+
+<img src="/images/Pictures/20.PNG"/>
+
+<img src="/images/Pictures/22.PNG"/>
+
+<img src="/images/Pictures/9.PNG"/>
+
+<img src="/images/Pictures/10.PNG"/>
+
+<img src="/images/Pictures/11.PNG"/>
+
+<img src="/images/Pictures/12.PNG"/>
+
+<img src="/images/Pictures/14.PNG"/>
+
+<img src="/images/Pictures/24.PNG"/>
+
+<img src="/images/Pictures/25.PNG"/>
+
+<img src="/images/Pictures/26.PNG"/>
+
+<img src="/images/Pictures/27.PNG"/>
+
+<img src="/images/Pictures/17.PNG"/>
+
+<img src="/images/Pictures/18.PNG"/>
+
+<img src="/images/Pictures/19.PNG"/>
+
 ### 什刹海--北京
 
 <img src="/images/Pictures/1.jpeg"/>
@@ -31,18 +73,6 @@ comments: true
 <img src="/images/Pictures/7.jpeg"/>
 
 <img src="/images/Pictures/8.jpeg"/>
-
-### 唐山宴、河头老街--唐山
-
-<img src="/images/Pictures/9.PNG"/>
-
-<img src="/images/Pictures/10.PNG"/>
-
-<img src="/images/Pictures/11.PNG"/>
-
-<img src="/images/Pictures/12.PNG"/>
-
-<img src="/images/Pictures/13.PNG"/>
 
 ### 张家口堡--张家口（2023.04）
 
