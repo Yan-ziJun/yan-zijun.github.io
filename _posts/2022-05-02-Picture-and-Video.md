@@ -88,42 +88,42 @@ comments: true
 
 ### 张家口堡--张家口（2023.04）
 
-<img src="/images/PV/zjk1.JPG"/>
+<img src="/images/Pictures/zjk1.JPG"/>
 
-<img src="/images/PV/zjk2.JPG"/>
+<img src="/images/Pictures/zjk2.JPG"/>
 
-<img src="/images/PV/zjk3.JPG"/>
+<img src="/images/Pictures/zjk3.JPG"/>
 
-<img src="/images/PV/zjk4.JPG"/>
+<img src="/images/Pictures/zjk4.JPG"/>
 
 ### 观音寺、宝尔汗佛塔--呼和浩特（2023.04）
 
-<img src="/images/PV/gys.JPG"/>
+<img src="/images/Pictures/gys.JPG"/>
 
-<img src="/images/PV/behft.JPG"/>
+<img src="/images/Pictures/behft.JPG"/>
 
 ### 泥河湾--张家口（2023.08）
 
-<img src="/images/PV/nhw1.JPG"/>
+<img src="/images/Pictures/nhw1.JPG"/>
 
-<img src="/images/PV/nhw2.JPG"/>
+<img src="/images/Pictures/nhw2.JPG"/>
 
-<img src="/images/PV/nhw3.JPG"/>
+<img src="/images/Pictures/nhw3.JPG"/>
 
 ### 右卫城--张家口（2024.02）
 
-<img src="/images/PV/ywc1.PNG"/>
+<img src="/images/Pictures/ywc1.PNG"/>
 
-<img src="/images/PV/ywc2.PNG"/>
+<img src="/images/Pictures/ywc2.PNG"/>
 
-<img src="/images/PV/ywc3.PNG"/>
+<img src="/images/Pictures/ywc3.PNG"/>
 
-<img src="/images/PV/ywc4.PNG"/>
+<img src="/images/Pictures/ywc4.PNG"/>
 
-<img src="/images/PV/ywc5.PNG"/>
+<img src="/images/Pictures/ywc5.PNG"/>
 
-<img src="/images/PV/ywc6.PNG"/>
+<img src="/images/Pictures/ywc6.PNG"/>
 
-<img src="/images/PV/ywc7.PNG"/>
+<img src="/images/Pictures/ywc7.PNG"/>
 
-<img src="/images/PV/ywc8.PNG"/>
+<img src="/images/Pictures/ywc8.PNG"/>
