@@ -34,7 +34,33 @@ comments: true
 
 <img src="/images/Pictures/8.jpeg"/>
 
-### 北平
+### 故宫--北京
+
+<img src="/images/Pictures/40.webp"/>
+
+<img src="/images/Pictures/41.webp"/>
+
+<img src="/images/Pictures/42.webp"/>
+
+<img src="/images/Pictures/43.webp"/>
+
+### 天坛公园--北京
+
+<img src="/images/Pictures/49.webp"/>
+
+<img src="/images/Pictures/50.webp"/>
+
+<img src="/images/Pictures/51.webp"/>
+
+<img src="/images/Pictures/52.webp"/>
+
+<img src="/images/Pictures/53.webp"/>
+
+<img src="/images/Pictures/54.webp"/>
+
+<img src="/images/Pictures/55.webp"/>
+
+### 北平的秋
 
 <img src="/images/Pictures/29.webp"/>
 
@@ -57,6 +83,18 @@ comments: true
 <img src="/images/Pictures/38.webp"/>
 
 <img src="/images/Pictures/39.webp"/>
+
+### 蓝花楹--澳大利亚
+
+<img src="/images/Pictures/44.webp"/>
+
+<img src="/images/Pictures/45.webp"/>
+
+<img src="/images/Pictures/46.webp"/>
+
+<img src="/images/Pictures/47.webp"/>
+
+<img src="/images/Pictures/48.webp"/>
 
 ### 山里各庄、唐山宴、河头老街--唐山
 
