@@ -14,6 +14,26 @@ comments: true
 
 ## 照片部分
 
+<img src="/images/China-Number-1.png"/>
+
+### 什刹海--北京
+
+<img src="/images/Pictures/1.jpeg"/>
+
+<img src="/images/Pictures/2.jpeg"/>
+
+<img src="/images/Pictures/3.jpeg"/>
+
+<img src="/images/Pictures/4.jpeg"/>
+
+<img src="/images/Pictures/5.jpeg"/>
+
+<img src="/images/Pictures/6.jpeg"/>
+
+<img src="/images/Pictures/7.jpeg"/>
+
+<img src="/images/Pictures/8.jpeg"/>
+
 ### 山里各庄、唐山宴、河头老街--唐山
 
 <img src="/images/Pictures/23.PNG"/>
@@ -58,62 +78,52 @@ comments: true
 
 <img src="/images/Pictures/ts1.PNG"/>
 
-### 什刹海--北京
+<img src="/images/Pictures/ts2.PNG"/>
 
-<img src="/images/Pictures/1.jpeg"/>
+<img src="/images/Pictures/ts3.PNG"/>
 
-<img src="/images/Pictures/2.jpeg"/>
+<img src="/images/Pictures/ts4.PNG"/>
 
-<img src="/images/Pictures/3.jpeg"/>
-
-<img src="/images/Pictures/4.jpeg"/>
-
-<img src="/images/Pictures/5.jpeg"/>
-
-<img src="/images/Pictures/6.jpeg"/>
-
-<img src="/images/Pictures/7.jpeg"/>
-
-<img src="/images/Pictures/8.jpeg"/>
+<img src="/images/Pictures/ts5.PNG"/>
 
 ### 张家口堡--张家口（2023.04）
 
-<img src="/images/PV/zjk1.jpeg"/>
+<img src="/images/PV/zjk1.JPG"/>
 
-<img src="/images/PV/zjk2.jpeg"/>
+<img src="/images/PV/zjk2.JPG"/>
 
-<img src="/images/PV/zjk3.jpeg"/>
+<img src="/images/PV/zjk3.JPG"/>
 
-<img src="/images/PV/zjk4.jpeg"/>
+<img src="/images/PV/zjk4.JPG"/>
 
 ### 观音寺、宝尔汗佛塔--呼和浩特（2023.04）
 
-<img src="/images/PV/gys.jpeg"/>
+<img src="/images/PV/gys.JPG"/>
 
-<img src="/images/PV/behft.jpeg"/>
+<img src="/images/PV/behft.JPG"/>
 
 ### 泥河湾--张家口（2023.08）
 
-<img src="/images/PV/nhw1.jpeg"/>
+<img src="/images/PV/nhw1.JPG"/>
 
-<img src="/images/PV/nhw2.jpeg"/>
+<img src="/images/PV/nhw2.JPG"/>
 
-<img src="/images/PV/nhw3.jpeg"/>
+<img src="/images/PV/nhw3.JPG"/>
 
 ### 右卫城--张家口（2024.02）
 
-<img src="/images/PV/ywc1.jpeg"/>
+<img src="/images/PV/ywc1.PNG"/>
 
-<img src="/images/PV/ywc2.jpeg"/>
+<img src="/images/PV/ywc2.PNG"/>
 
-<img src="/images/PV/ywc3.jpeg"/>
+<img src="/images/PV/ywc3.PNG"/>
 
-<img src="/images/PV/ywc4.jpeg"/>
+<img src="/images/PV/ywc4.PNG"/>
 
-<img src="/images/PV/ywc5.jpeg"/>
+<img src="/images/PV/ywc5.PNG"/>
 
-<img src="/images/PV/ywc6.jpeg"/>
+<img src="/images/PV/ywc6.PNG"/>
 
-<img src="/images/PV/ywc7.jpeg"/>
+<img src="/images/PV/ywc7.PNG"/>
 
-<img src="/images/PV/ywc8.jpeg"/>
+<img src="/images/PV/ywc8.PNG"/>
