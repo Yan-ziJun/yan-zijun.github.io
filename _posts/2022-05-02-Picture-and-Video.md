@@ -34,6 +34,10 @@ comments: true
 
 <img src="/images/Pictures/8.jpeg"/>
 
+### 北平
+
+<img src="/images/Pictures/29.webp"/>
+
 ### 山里各庄、唐山宴、河头老街--唐山
 
 <img src="/images/Pictures/23.PNG"/>
