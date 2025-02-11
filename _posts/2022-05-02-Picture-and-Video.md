@@ -16,33 +16,33 @@ comments: true
 
 ### 什刹海--北京
 
-<img src="/images/PV/1.jpeg"/>
+<img src="/images/Pictures/1.jpeg"/>
 
-<img src="/images/PV/2.jpeg"/>
+<img src="/images/Pictures/2.jpeg"/>
 
-<img src="/images/PV/3.jpeg"/>
+<img src="/images/Pictures/3.jpeg"/>
 
-<img src="/images/PV/4.jpeg"/>
+<img src="/images/Pictures/4.jpeg"/>
 
-<img src="/images/PV/5.jpeg"/>
+<img src="/images/Pictures/5.jpeg"/>
 
-<img src="/images/PV/6.jpeg"/>
+<img src="/images/Pictures/6.jpeg"/>
 
-<img src="/images/PV/7.jpeg"/>
+<img src="/images/Pictures/7.jpeg"/>
 
-<img src="/images/PV/8.jpeg"/>
+<img src="/images/Pictures/8.jpeg"/>
 
 ### 唐山宴、河头老街--唐山
 
-<img src="/images/PV/9.PNG"/>
+<img src="/images/Pictures/9.PNG"/>
 
-<img src="/images/PV/10.PNG"/>
+<img src="/images/Pictures/10.PNG"/>
 
-<img src="/images/PV/11.PNG"/>
+<img src="/images/Pictures/11.PNG"/>
 
-<img src="/images/PV/12.PNG"/>
+<img src="/images/Pictures/12.PNG"/>
 
-<img src="/images/PV/13.PNG"/>
+<img src="/images/Pictures/13.PNG"/>
 
 ### 张家口堡--张家口（2023.04）
 
