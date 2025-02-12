@@ -12,14 +12,15 @@ comments: true
 
 **文中图片如有侵权请联系下架**
 
-**照片目录如下：**
+**音乐目录如下：**
 
-1.蓝花楹
+1.明天过后
 
-2.意大利
+2.待
 
-3.瑞士
+3.待
 
-4.光亮
+4.待
 
-<audio src="/Music/光亮.mp3"></audio>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=191248&auto=0&height=32"></iframe>
+
