@@ -16,9 +16,9 @@ comments: true
 
 1.蓝花楹
 
-2.待
+2.意大利
 
-3.待
+3.瑞士
 
 ### 蓝花楹--澳大利亚
 
@@ -32,3 +32,32 @@ comments: true
 
 <img src="/images/Pictures/48.webp"/>
 
+### 意大利
+
+<img src="/images/Pictures/56.webp"/>
+
+<img src="/images/Pictures/57.webp"/>
+
+<img src="/images/Pictures/58.webp"/>
+
+<img src="/images/Pictures/59.webp"/>
+
+<img src="/images/Pictures/66.webp"/>
+
+<img src="/images/Pictures/67.webp"/>
+
+<img src="/images/Pictures/68.webp"/>
+
+### 瑞士
+
+<img src="/images/Pictures/60.webp"/>
+
+<img src="/images/Pictures/61.webp"/>
+
+<img src="/images/Pictures/62.webp"/>
+
+<img src="/images/Pictures/63.webp"/>
+
+<img src="/images/Pictures/64.webp"/>
+
+<img src="/images/Pictures/65.webp"/>
