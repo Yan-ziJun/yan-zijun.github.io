@@ -16,21 +16,23 @@ comments: true
 
 1.什刹海
 
-2.故宫
+1.故宫
 
-3.天坛公园
+1.天坛公园
 
-4.北平的秋
+1.颐和园
 
-5.唐山
+1.北平的秋
 
-6.张家口堡
+1.唐山
 
-7.呼和浩特
+1.张家口堡
 
-8.泥河湾
+1.呼和浩特
 
-9.右卫城
+1.泥河湾
+
+1.右卫城
 
 ### 什刹海--北京
 
@@ -75,6 +77,12 @@ comments: true
 <img src="/images/Pictures/54.webp"/>
 
 <img src="/images/Pictures/55.webp"/>
+
+### 颐和园
+
+<img src="/images/Pictures/93.webp"/>
+
+<img src="/images/Pictures/94.webp"/>
 
 ### 北平的秋
 
