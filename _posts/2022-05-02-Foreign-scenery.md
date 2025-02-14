@@ -14,19 +14,21 @@ comments: true
 
 **照片目录如下：**
 
-1.蓝花楹
+蓝花楹
 
-2.意大利
+意大利
 
-3.瑞士
+瑞士
 
-4.斐济
+斐济
 
-5.芬兰
+芬兰
 
-6.圣米歇尔山
+圣米歇尔山
 
-7.富士山
+富士山
+
+韩国
 
 ### 蓝花楹--澳大利亚
 
@@ -129,3 +131,33 @@ comments: true
 ### 富士山
 
 <img src="/images/Pictures/95.webp"/>
+
+<img src="/images/Pictures/97.webp"/>
+
+<img src="/images/Pictures/98.webp"/>
+
+<img src="/images/Pictures/99.webp"/>
+
+<img src="/images/Pictures/100.webp"/>
+
+### 韩国--济州岛
+
+<img src="/images/Pictures/111.webp"/>
+
+<img src="/images/Pictures/112.webp"/>
+
+<img src="/images/Pictures/113.webp"/>
+
+<img src="/images/Pictures/114.webp"/>
+
+### 马来西亚--仙本那
+
+<img src="/images/Pictures/106.webp"/>
+
+<img src="/images/Pictures/107.webp"/>
+
+<img src="/images/Pictures/108.webp"/>
+
+<img src="/images/Pictures/109.webp"/>
+
+<img src="/images/Pictures/110.webp"/>

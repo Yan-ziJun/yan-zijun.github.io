@@ -14,25 +14,27 @@ comments: true
 
 **照片目录如下：**
 
-1.什刹海
+什刹海
 
-1.故宫
+故宫
 
-1.天坛公园
+天坛公园
 
-1.颐和园
+颐和园
 
-1.北平的秋
+北平的秋
 
-1.唐山
+唐山
 
-1.张家口堡
+张家口堡
 
-1.呼和浩特
+呼和浩特
 
-1.泥河湾
+泥河湾
 
-1.右卫城
+右卫城
+
+九鼎山
 
 ### 什刹海--北京
 
@@ -201,3 +203,15 @@ comments: true
 <img src="/images/Pictures/ywc7.PNG"/>
 
 <img src="/images/Pictures/ywc8.PNG"/>
+
+### 九鼎山
+
+<img src="/images/Pictures/101.webp"/>
+
+<img src="/images/Pictures/102.webp"/>
+
+<img src="/images/Pictures/103.webp"/>
+
+<img src="/images/Pictures/104.webp"/>
+
+<img src="/images/Pictures/105.webp"/>
