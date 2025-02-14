@@ -12,9 +12,9 @@ comments: true
 
 **文中图片如有侵权请联系下架**
 
-**照片目录如下：**
+## | 目录 |
 
-澳大利亚
+[澳大利亚](#section1)
 
 意大利
 
@@ -30,7 +30,11 @@ comments: true
 
 韩国
 
-马来西亚
+[马来西亚](#section2)
+
+```html
+<a id="section1"></a>
+```
 
 ### 澳大利亚--蓝花楹
 
@@ -161,6 +165,10 @@ comments: true
 <img src="/images/Pictures/113.webp"/>
 
 <img src="/images/Pictures/114.webp"/>
+
+```html
+<a id="section2"></a
+```
 
 ### 马来西亚--仙本那
 
