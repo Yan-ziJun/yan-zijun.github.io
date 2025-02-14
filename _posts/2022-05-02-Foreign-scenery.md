@@ -14,7 +14,7 @@ comments: true
 
 ## | 目录 |
 
-[澳大利亚--蓝花楹](#澳大利亚--蓝花楹)
+[澳大利亚--蓝花楹](#蓝花楹)
 
 [意大利](#意大利)
 
@@ -24,15 +24,15 @@ comments: true
 
 [芬兰](#芬兰)
 
-[法国--圣米歇尔山](#法国--圣米歇尔山)
+[法国--圣米歇尔山](#圣米歇尔山)
 
-[日本--富士山](#日本--富士山)
+[日本--富士山](#富士山)
 
-[韩国--济州岛](#韩国--济州岛)
+[韩国--济州岛](#济州岛)
 
-[马来西亚--仙本那](#马来西亚--仙本那)
+[马来西亚--仙本那](#仙本那)
 
-### <span id="jump">澳大利亚--蓝花楹</span>
+### <span id="jump">蓝花楹</span>
 
 <img src="/images/Pictures/44.webp"/>
 
@@ -130,7 +130,7 @@ comments: true
 
 <img src="/images/Pictures/96.webp"/>
 
-### <span id="jump">法国--圣米歇尔山</span>
+### <span id="jump">圣米歇尔山</span>
 
 <img src="/images/Pictures/85.webp"/>
 
@@ -140,7 +140,7 @@ comments: true
 
 <img src="/images/Pictures/92.webp"/>
 
-### <span id="jump">日本--富士山</span>
+### <span id="jump">富士山</span>
 
 <img src="/images/Pictures/95.webp"/>
 
@@ -152,7 +152,7 @@ comments: true
 
 <img src="/images/Pictures/100.webp"/>
 
-### <span id="jump">韩国--济州岛</span>
+### <span id="jump">济州岛</span>
 
 <img src="/images/Pictures/111.webp"/>
 
@@ -162,7 +162,7 @@ comments: true
 
 <img src="/images/Pictures/114.webp"/>
 
-### <span id="jump">马来西亚--仙本那</span>
+### <span id="jump">仙本那</span>
 
 <img src="/images/Pictures/106.webp"/>
 
