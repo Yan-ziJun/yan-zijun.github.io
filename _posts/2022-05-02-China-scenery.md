@@ -14,29 +14,17 @@ comments: true
 
 **照片目录如下：**
 
-什刹海
+北京
 
-故宫
+四川
 
-天坛公园
-
-颐和园
-
-北平的秋
-
-唐山
-
-张家口堡
+河北
 
 呼和浩特
 
-泥河湾
+---
 
-右卫城
-
-九鼎山
-
-### 什刹海--北京
+### 北京--什刹海
 
 <img src="/images/Pictures/1.jpeg"/>
 
@@ -54,7 +42,7 @@ comments: true
 
 <img src="/images/Pictures/8.jpeg"/>
 
-### 故宫--北京
+### 北京--故宫
 
 <img src="/images/Pictures/40.webp"/>
 
@@ -64,7 +52,7 @@ comments: true
 
 <img src="/images/Pictures/43.webp"/>
 
-### 天坛公园--北京
+### 北京--天坛公园
 
 <img src="/images/Pictures/49.webp"/>
 
@@ -80,13 +68,13 @@ comments: true
 
 <img src="/images/Pictures/55.webp"/>
 
-### 颐和园
+### 北京--颐和园
 
 <img src="/images/Pictures/93.webp"/>
 
 <img src="/images/Pictures/94.webp"/>
 
-### 北平的秋
+### 北京--北平的秋
 
 <img src="/images/Pictures/29.webp"/>
 
@@ -110,7 +98,19 @@ comments: true
 
 <img src="/images/Pictures/39.webp"/>
 
-### 山里各庄、唐山宴、河头老街--唐山
+### 四川成都--九鼎山
+
+<img src="/images/Pictures/101.webp"/>
+
+<img src="/images/Pictures/102.webp"/>
+
+<img src="/images/Pictures/103.webp"/>
+
+<img src="/images/Pictures/104.webp"/>
+
+<img src="/images/Pictures/105.webp"/>
+
+### 河北唐山--山里各庄、唐山宴、河头老街
 
 <img src="/images/Pictures/23.PNG"/>
 
@@ -162,7 +162,7 @@ comments: true
 
 <img src="/images/Pictures/ts5.PNG"/>
 
-### 张家口堡--张家口（2023.04）
+### 河北张家口--张家口堡（2023.04）
 
 <img src="/images/Pictures/zjk1.JPG"/>
 
@@ -172,13 +172,7 @@ comments: true
 
 <img src="/images/Pictures/zjk4.JPG"/>
 
-### 观音寺、宝尔汗佛塔--呼和浩特（2023.04）
-
-<img src="/images/Pictures/gys.JPG"/>
-
-<img src="/images/Pictures/behft.JPG"/>
-
-### 泥河湾--张家口（2023.08）
+### 河北张家口--泥河湾（2023.08）
 
 <img src="/images/Pictures/nhw1.JPG"/>
 
@@ -186,7 +180,7 @@ comments: true
 
 <img src="/images/Pictures/nhw3.JPG"/>
 
-### 右卫城--张家口（2024.02）
+### 河北张家口--右卫城（2024.02）
 
 <img src="/images/Pictures/ywc1.PNG"/>
 
@@ -204,14 +198,9 @@ comments: true
 
 <img src="/images/Pictures/ywc8.PNG"/>
 
-### 九鼎山
+### 内蒙古呼和浩特--观音寺、宝尔汗佛塔（2023.04）
 
-<img src="/images/Pictures/101.webp"/>
+<img src="/images/Pictures/gys.JPG"/>
 
-<img src="/images/Pictures/102.webp"/>
+<img src="/images/Pictures/behft.JPG"/>
 
-<img src="/images/Pictures/103.webp"/>
-
-<img src="/images/Pictures/104.webp"/>
-
-<img src="/images/Pictures/105.webp"/>
