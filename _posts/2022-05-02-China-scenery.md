@@ -12,19 +12,37 @@ comments: true
 
 **文中图片如有侵权请联系下架**
 
-**照片目录如下：**
+## | 目录 |
 
-北京
+[北京--什刹海](#什刹海)
 
-四川
+[北京--故宫](#故宫)
 
-河北
+[北京--天坛公园](#天坛公园)
 
-呼和浩特
+[北京--颐和园](#颐和园)
+
+[北京--北平的秋](#北平的秋)
+
+[四川成都--九鼎山](#九鼎山)
+
+[河北唐山--山里各庄、唐山宴、河头老街](#唐山)
+
+[河北张家口--张家口堡（2023.04）](#张家口堡)
+
+[河北张家口--泥河湾（2023.08）](#泥河湾)
+
+[河北张家口--右卫城（2024.02）](#右卫城)
+
+[北京--中国国家博物馆（2024.02）](#中国国家博物馆)
+
+[北京--圆明园（2024.11）](#圆明园)
+
+[内蒙古呼和浩特--观音寺、宝尔汗佛塔（2023.04）](#呼和浩特)
 
 ---
 
-### 北京--什刹海
+### <span id="jump">什刹海</span>
 
 <img src="/images/Pictures/1.jpeg"/>
 
@@ -42,7 +60,7 @@ comments: true
 
 <img src="/images/Pictures/8.jpeg"/>
 
-### 北京--故宫
+### <span id="jump">故宫</span>
 
 <img src="/images/Pictures/40.webp"/>
 
@@ -52,7 +70,7 @@ comments: true
 
 <img src="/images/Pictures/43.webp"/>
 
-### 北京--天坛公园
+### <span id="jump">天坛公园</span>
 
 <img src="/images/Pictures/49.webp"/>
 
@@ -68,13 +86,13 @@ comments: true
 
 <img src="/images/Pictures/55.webp"/>
 
-### 北京--颐和园
+### <span id="jump">颐和园</span>
 
 <img src="/images/Pictures/93.webp"/>
 
 <img src="/images/Pictures/94.webp"/>
 
-### 北京--北平的秋
+### <span id="jump">北平的秋</span>
 
 <img src="/images/Pictures/29.webp"/>
 
@@ -98,7 +116,7 @@ comments: true
 
 <img src="/images/Pictures/39.webp"/>
 
-### 四川成都--九鼎山
+### <span id="jump">九鼎山</span>
 
 <img src="/images/Pictures/101.webp"/>
 
@@ -110,7 +128,7 @@ comments: true
 
 <img src="/images/Pictures/105.webp"/>
 
-### 河北唐山--山里各庄、唐山宴、河头老街
+### <span id="jump">唐山</span>
 
 <img src="/images/Pictures/23.PNG"/>
 
@@ -162,7 +180,7 @@ comments: true
 
 <img src="/images/Pictures/ts5.PNG"/>
 
-### 河北张家口--张家口堡（2023.04）
+### <span id="jump">张家口堡</span>
 
 <img src="/images/Pictures/zjk1.JPG"/>
 
@@ -172,7 +190,7 @@ comments: true
 
 <img src="/images/Pictures/zjk4.JPG"/>
 
-### 河北张家口--泥河湾（2023.08）
+### <span id="jump">泥河湾</span>
 
 <img src="/images/Pictures/nhw1.JPG"/>
 
@@ -180,7 +198,7 @@ comments: true
 
 <img src="/images/Pictures/nhw3.JPG"/>
 
-### 河北张家口--右卫城（2024.02）
+### <span id="jump">右卫城</span>
 
 <img src="/images/Pictures/ywc1.PNG"/>
 
@@ -198,7 +216,47 @@ comments: true
 
 <img src="/images/Pictures/ywc8.PNG"/>
 
-### 内蒙古呼和浩特--观音寺、宝尔汗佛塔（2023.04）
+### <span id="jump">中国国家博物馆</span>
+
+<img src="/images/Pictures/120.PNG"/>
+
+<img src="/images/Pictures/121.PNG"/>
+
+<img src="/images/Pictures/122.PNG"/>
+
+<img src="/images/Pictures/123.PNG"/>
+
+<img src="/images/Pictures/124.PNG"/>
+
+<img src="/images/Pictures/125.PNG"/>
+
+<img src="/images/Pictures/126.PNG"/>
+
+<img src="/images/Pictures/127.PNG"/>
+
+<img src="/images/Pictures/128.PNG"/>
+
+<img src="/images/Pictures/129.PNG"/>
+
+<img src="/images/Pictures/130.PNG"/>
+
+<img src="/images/Pictures/131.PNG"/>
+
+<img src="/images/Pictures/132.PNG"/>
+
+<img src="/images/Pictures/133.PNG"/>
+
+<img src="/images/Pictures/134.PNG"/>
+
+### <span id="jump">圆明园</span>
+
+<img src="/images/Pictures/1 (1).JPG"/>
+
+<img src="/images/Pictures/1 (2).JPG"/>
+
+<img src="/images/Pictures/1 (3).JPG"/>
+
+### <span id="jump">呼和浩特</span>
 
 <img src="/images/Pictures/gys.JPG"/>
 
