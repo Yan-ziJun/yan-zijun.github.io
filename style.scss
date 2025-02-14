@@ -473,6 +473,8 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $divider-color;
+	max-height: 300px;
+	overflow: hidden;
 }
 
 .posts > .post:last-child {
