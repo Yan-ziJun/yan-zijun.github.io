@@ -14,29 +14,25 @@ comments: true
 
 ## | 目录 |
 
-[澳大利亚](#section1)
+[澳大利亚--蓝花楹](#澳大利亚--蓝花楹)
 
-意大利
+[意大利](#意大利)
 
-瑞士
+[瑞士](#瑞士)
 
-斐济
+[斐济](#斐济)
 
-芬兰
+[芬兰](#芬兰)
 
-法国
+[法国--圣米歇尔山](#法国--圣米歇尔山)
 
-日本
+[日本--富士山](#日本--富士山)
 
-韩国
+[韩国--济州岛](#韩国--济州岛)
 
-[马来西亚](#section2)
+[马来西亚--仙本那](#马来西亚--仙本那)
 
-```html
-<a id="section1"></a>
-```
-
-### 澳大利亚--蓝花楹
+### <span id="jump">澳大利亚--蓝花楹</span>
 
 <img src="/images/Pictures/44.webp"/>
 
@@ -48,7 +44,7 @@ comments: true
 
 <img src="/images/Pictures/48.webp"/>
 
-### 意大利
+### <span id="jump">意大利</span>
 
 <img src="/images/Pictures/56.webp"/>
 
@@ -64,7 +60,7 @@ comments: true
 
 <img src="/images/Pictures/68.webp"/>
 
-### 瑞士
+### <span id="jump">瑞士</span>
 
 <img src="/images/Pictures/115.webp"/>
 
@@ -104,7 +100,7 @@ comments: true
 
 <img src="/images/Pictures/80.webp"/>
 
-### 斐济
+### <span id="jump">斐济</span>
 
 <img src="/images/Pictures/73.webp"/>
 
@@ -122,7 +118,7 @@ comments: true
 
 <img src="/images/Pictures/84.webp"/>
 
-### 芬兰
+### <span id="jump">芬兰</span>
 
 <img src="/images/Pictures/88.webp"/>
 
@@ -134,7 +130,7 @@ comments: true
 
 <img src="/images/Pictures/96.webp"/>
 
-### 法国--圣米歇尔山
+### <span id="jump">法国--圣米歇尔山</span>
 
 <img src="/images/Pictures/85.webp"/>
 
@@ -144,7 +140,7 @@ comments: true
 
 <img src="/images/Pictures/92.webp"/>
 
-### 日本--富士山
+### <span id="jump">日本--富士山</span>
 
 <img src="/images/Pictures/95.webp"/>
 
@@ -156,7 +152,7 @@ comments: true
 
 <img src="/images/Pictures/100.webp"/>
 
-### 韩国--济州岛
+### <span id="jump">韩国--济州岛</span>
 
 <img src="/images/Pictures/111.webp"/>
 
@@ -166,11 +162,7 @@ comments: true
 
 <img src="/images/Pictures/114.webp"/>
 
-```html
-<a id="section2"></a
-```
-
-### 马来西亚--仙本那
+### <span id="jump">马来西亚--仙本那</span>
 
 <img src="/images/Pictures/106.webp"/>
 
