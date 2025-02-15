@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 国外风景
-date: 2022-05-02
+date: 2022-05-01
 Author: 阎子君
 categories: 照片
 tags: [照片,国外]
@@ -24,13 +24,19 @@ comments: true
 
 [芬兰](#芬兰)
 
+[新加坡](#新加坡)
+
 [法国--圣米歇尔山](#圣米歇尔山)
 
 [日本--富士山](#富士山)
 
+[日本--京都](#京都)
+
 [韩国--济州岛](#济州岛)
 
 [马来西亚--仙本那](#仙本那)
+
+[美国--纽约](#纽约)
 
 ### <span id="jump">蓝花楹</span>
 
@@ -130,6 +136,20 @@ comments: true
 
 <img src="/images/Pictures/96.webp"/>
 
+### <span id="jump">新加坡</span>
+
+<img src="/images/Pictures/149.webp"/>
+
+<img src="/images/Pictures/150.webp"/>
+
+<img src="/images/Pictures/151.webp"/>
+
+<img src="/images/Pictures/152.webp"/>
+
+<img src="/images/Pictures/153.webp"/>
+
+<img src="/images/Pictures/154.webp"/>
+
 ### <span id="jump">圣米歇尔山</span>
 
 <img src="/images/Pictures/85.webp"/>
@@ -139,6 +159,10 @@ comments: true
 <img src="/images/Pictures/87.webp"/>
 
 <img src="/images/Pictures/92.webp"/>
+
+<img src="/images/Pictures/163.webp"/>
+
+<img src="/images/Pictures/164.webp"/>
 
 ### <span id="jump">富士山</span>
 
@@ -151,6 +175,16 @@ comments: true
 <img src="/images/Pictures/99.webp"/>
 
 <img src="/images/Pictures/100.webp"/>
+
+### <span id="jump">京都</span>
+
+<img src="/images/Pictures/159.webp"/>
+
+<img src="/images/Pictures/160.webp"/>
+
+<img src="/images/Pictures/161.webp"/>
+
+<img src="/images/Pictures/162.webp"/>
 
 ### <span id="jump">济州岛</span>
 
@@ -173,3 +207,22 @@ comments: true
 <img src="/images/Pictures/109.webp"/>
 
 <img src="/images/Pictures/110.webp"/>
+
+### <span id="jump">纽约</span>
+
+<img src="/images/Pictures/141.webp"/>
+
+<img src="/images/Pictures/142.webp"/>
+
+<img src="/images/Pictures/143.webp"/>
+
+<img src="/images/Pictures/144.webp"/>
+
+<img src="/images/Pictures/145.webp"/>
+
+<img src="/images/Pictures/146.webp"/>
+
+<img src="/images/Pictures/147.webp"/>
+
+<img src="/images/Pictures/148.webp"/>
+
