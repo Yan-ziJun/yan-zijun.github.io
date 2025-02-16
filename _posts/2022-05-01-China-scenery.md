@@ -24,11 +24,13 @@ comments: true
 
 [北京--北平的秋](#北平的秋)
 
+[四川--九鼎山](#九鼎山)
+
 [四川--九寨沟](#九寨沟)
 
 [四川--勒多曼因](#勒多曼因)
 
-[四川--九鼎山](#九鼎山)
+[四川--四姑娘山](#四姑娘山)
 
 [云南--雨崩](#雨崩)
 
@@ -140,6 +142,18 @@ comments: true
 
 <img src="/images/Pictures/39.webp"/>
 
+### <span id="jump">九鼎山</span>
+
+<img src="/images/Pictures/101.webp"/>
+
+<img src="/images/Pictures/102.webp"/>
+
+<img src="/images/Pictures/103.webp"/>
+
+<img src="/images/Pictures/104.webp"/>
+
+<img src="/images/Pictures/105.webp"/>
+
 ### <span id="jump">九寨沟</span>
 
 <img src="/images/Pictures/204.webp"/>
@@ -168,6 +182,20 @@ comments: true
 
 <img src="/images/Pictures/216.webp"/>
 
+<img src="/images/Pictures/253.webp"/>
+
+<img src="/images/Pictures/254.webp"/>
+
+<img src="/images/Pictures/255.webp"/>
+
+<img src="/images/Pictures/256.webp"/>
+
+<img src="/images/Pictures/257.webp"/>
+
+<img src="/images/Pictures/258.webp"/>
+
+<img src="/images/Pictures/259.webp"/>
+
 ### <span id="jump">勒多曼因</span>
 
 <img src="/images/Pictures/217.webp"/>
@@ -180,17 +208,29 @@ comments: true
 
 <img src="/images/Pictures/221.webp"/>
 
-### <span id="jump">九鼎山</span>
+### <span id="jump">四姑娘山</span>
 
-<img src="/images/Pictures/101.webp"/>
+<img src="/images/Pictures/233.webp"/>
 
-<img src="/images/Pictures/102.webp"/>
+<img src="/images/Pictures/234.webp"/>
 
-<img src="/images/Pictures/103.webp"/>
+<img src="/images/Pictures/235.webp"/>
 
-<img src="/images/Pictures/104.webp"/>
+<img src="/images/Pictures/236.webp"/>
 
-<img src="/images/Pictures/105.webp"/>
+<img src="/images/Pictures/237.webp"/>
+
+<img src="/images/Pictures/238.webp"/>
+
+<img src="/images/Pictures/239.webp"/>
+
+<img src="/images/Pictures/240.webp"/>
+
+<img src="/images/Pictures/241.webp"/>
+
+<img src="/images/Pictures/242.webp"/>
+
+<img src="/images/Pictures/243.webp"/>
 
 ### <span id="jump">雨崩</span>
 
